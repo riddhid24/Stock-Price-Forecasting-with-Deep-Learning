@@ -33,12 +33,10 @@ The script includes a function `predict_future_prices` that can be used to predi
 starting_data = X_test[-1].reshape(sequence_length, 1)
 forecasted_prices = predict_future_prices(model, starting_data, num_days=5)
 print("Forecasted Prices for the Next 5 Days:")
-print(forecasted_prices)
+print(forecasted_prices)```
 
 
-
-
-References
+##References
 TensorFlow: https://www.tensorflow.org/
 NumPy: https://numpy.org/
 pandas: https://pandas.pydata.org/
