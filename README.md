@@ -38,7 +38,6 @@ print("Forecasted Prices for the Next 5 Days:")
 print(forecasted_prices)
 ```
 
-<<<<<<< HEAD
 
 ![Alt text](image.png)
 
