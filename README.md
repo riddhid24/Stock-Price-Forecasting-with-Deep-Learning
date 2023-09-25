@@ -36,6 +36,10 @@ print("Forecasted Prices for the Next 5 Days:")
 print(forecasted_prices)
 
 
+![Alt text](image.png)
+
+**Root Mean Squared Error (RMSE): 98.39233574605251**
+
 
 
 References
